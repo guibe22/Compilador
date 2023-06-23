@@ -20,5 +20,6 @@ public enum TokenType
     Assign,
     String,
     Variable,
-    Bool
+    Bool,
+    EOF
 }

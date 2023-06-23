@@ -13,6 +13,7 @@ public class Lexer
         position = 0;
         tokens = TokenizeInput();
     }
+    
 
     private string[] TokenizeInput()
     {

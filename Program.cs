@@ -1,18 +1,11 @@
-﻿
-string input = "print('pasen la') ";
+﻿Console.WriteLine("ingresa el codigo");
+string input = Console.ReadLine();
 
 Lexer lexer = new Lexer(input);
 
-Console.WriteLine("Tokens:");
-Token token = lexer.GetNextToken();
-while (token != null)
-{
-    Console.WriteLine($"Type: {token.Type}, Value: {token.Value}");
-    token = lexer.GetNextToken();
-}
 
-Interpreter interpreter = new Interpreter();
-interpreter.Interpret(input);
+Parser parser = new Parser(input);
+parser.Parse();
 
 
 
