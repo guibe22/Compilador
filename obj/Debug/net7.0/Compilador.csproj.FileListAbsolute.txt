@@ -1,0 +1,15 @@
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\bin\Debug\net7.0\Compilador.exe
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\bin\Debug\net7.0\Compilador.deps.json
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\bin\Debug\net7.0\Compilador.runtimeconfig.json
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\bin\Debug\net7.0\Compilador.dll
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\bin\Debug\net7.0\Compilador.pdb
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.csproj.AssemblyReference.cache
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.AssemblyInfoInputs.cache
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.AssemblyInfo.cs
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.dll
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\refint\Compilador.dll
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.pdb
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\Compilador.genruntimeconfig.cache
+C:\Users\galve\OneDrive\TAREAS\LENGUAJE_DE_PROGRAMACION\Compilador\obj\Debug\net7.0\ref\Compilador.dll

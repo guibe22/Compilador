@@ -1,0 +1,24 @@
+public enum TokenType
+{
+    Integer,
+    Plus,
+    Minus,
+    Multiply,
+    Divide,
+    LParen,
+    RParen,
+    If,
+    Else,
+    Print,
+    Identifier,
+    Equal,
+    NotEqual,
+    LessThan,
+    LessThanOrEqual,
+    GreaterThan,
+    GreaterThanOrEqual,
+    Assign,
+    String,
+    Variable,
+    Bool
+}
